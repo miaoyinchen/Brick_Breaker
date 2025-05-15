@@ -7,4 +7,5 @@
 ### 可能需要下載套件
 
 `pip install pygame`
+
 `pip install keyboard`
